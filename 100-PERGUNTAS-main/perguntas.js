@@ -24,11 +24,7 @@ criaCartao(
     'A célula'
 )
 
-criaCartao(
-    'Matemática',
-    'O que é um número primo??',
-    ' Um número natural maior que 1 que tem exatamente dois divisores positivos: 1 e ele mesmo.'
-)
+
 
 criaCartao(
     'Geografia',
@@ -75,7 +71,7 @@ criaCartao(
 criaCartao(
     'História',
     'Quem foi Júlio César?',
-    'Um líder militar e político romano que desempenhou um papel crítico na transformação da República Romana em Império.'
+    'Um líder militar e político romano.'
 )
 
 criaCartao(

@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Sofadi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Rampart+One&family=Sofadi+One&display=swap');
 :root {
     --cor-fundo: #81a2e9a1;
     --cor-texto-frente: rgb(0, 0, 0);
@@ -10,7 +10,7 @@
 
 body {
     background: url(https://images6.alphacoders.com/135/1354209.jpeg);
-    font-family: "Sofadi One", system-ui;
+    font-family: "Protest Revolution", sans-serif;
 }
 
 #container {
@@ -73,7 +73,7 @@ body {
 
     color: rgb(3, 8, 8);
     font-weight: 700;
-    font-size: 17px;
+    font-size: 22px;
 
 }
 
@@ -105,7 +105,7 @@ footer {
 footer p {
     text-align: center;
     font-size: 2rem;
-    color: yellow;
+    color: rgb(253, 75, 5);
     font-weight: bold;
 }
 
