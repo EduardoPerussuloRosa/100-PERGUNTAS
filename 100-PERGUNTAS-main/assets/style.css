@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Sofadi+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Rampart+One&family=Sofadi+One&display=swap');
 :root {
-    --cor-fundo: #81a2e9a1;
+    --cor-fundo: #a4a4afab;
     --cor-texto-frente: rgb(0, 0, 0);
-    --cor-fundo-tema: white;
+    --cor-fundo-tema: rgb(255, 250, 250);
     --cor-borda: rgb(0, 0, 0);
 
 }
